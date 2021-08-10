@@ -24,10 +24,8 @@ Button_750C11A1_648F_A89A_41C9_2E58278A81A6.label = INFORMATION
 Button_750C11A1_648F_A89A_41C9_2E58278A81A6_mobile.label = INFORMATION
 
 ### Multiline Text
-HTMLText_4EF5C34F_7FCE_2159_41D1_9829A87E30A9.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 0px 7.5px rgba(0,0,0,0.63);text-align:left;font-size:18px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:'Segoe UI';"><SPAN STYLE="color:#e7392b;font-size:18px;font-family:'Exo';"><B><I>MOMENTUM</I></B></SPAN></SPAN></DIV></div>
-HTMLText_524CEEAF_7E31_E3D9_41D5_A18634B5A288.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 0px 15px rgba(0,0,0,0.6);text-align:left;font-size:5.250000000000008vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:'Segoe UI';"><SPAN STYLE="color:#e7392b;font-size:5.25vmin;font-family:'Exo';"><B><I>MOMENTUM</I></B></SPAN></SPAN></DIV></div>
+HTMLText_524CEEAF_7E31_E3D9_41D5_A18634B5A288.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 0px 15px rgba(0,0,0,0.6);text-align:left;font-size:5.250000000000007vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:'Segoe UI';"><SPAN STYLE="color:#e7392b;font-size:5.25vmin;font-family:'Exo';"><B><I>MOMENTUM</I></B></SPAN></SPAN></DIV></div>
 HTMLText_6BDD8039_64A6_31E4_41D7_D3C38C6C69F2.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 0px 15px rgba(0,0,0,0.6);text-align:left;font-size:7.430000000000003vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:'Segoe UI';"><SPAN STYLE="color:#ffffff;font-size:7.43vmin;font-family:'Exo';"><B><I>VOLVO XC90</I></B></SPAN></SPAN></DIV></div>
-HTMLText_6BDD8039_64A6_31E4_41D7_D3C38C6C69F2_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 0px 7.5px rgba(0,0,0,0.63);text-align:left;font-size:30px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:'Segoe UI';"><SPAN STYLE="color:#ffffff;font-size:30px;font-family:'Exo';"><B><I>VOLVO XC90</I></B></SPAN></SPAN></DIV></div>
 
 ## Media
 
