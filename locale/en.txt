@@ -24,7 +24,7 @@ Button_750C11A1_648F_A89A_41C9_2E58278A81A6.label = INFORMATION
 Button_750C11A1_648F_A89A_41C9_2E58278A81A6_mobile.label = INFORMATION
 
 ### Multiline Text
-HTMLText_524CEEAF_7E31_E3D9_41D5_A18634B5A288.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 0px 15px rgba(0,0,0,0.6);text-align:left;font-size:5.250000000000008vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:'Segoe UI';"><SPAN STYLE="color:#e7392b;font-size:5.25vmin;font-family:'Exo';"><B><I>MOMENTUM</I></B></SPAN></SPAN></DIV></div>
+HTMLText_524CEEAF_7E31_E3D9_41D5_A18634B5A288.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 0px 15px rgba(0,0,0,0.6);text-align:left;font-size:5.250000000000007vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:'Segoe UI';"><SPAN STYLE="color:#e7392b;font-size:5.25vmin;font-family:'Exo';"><B><I>MOMENTUM</I></B></SPAN></SPAN></DIV></div>
 HTMLText_6BDD8039_64A6_31E4_41D7_D3C38C6C69F2.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 0px 15px rgba(0,0,0,0.6);text-align:left;font-size:7.430000000000003vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:'Segoe UI';"><SPAN STYLE="color:#ffffff;font-size:7.43vmin;font-family:'Exo';"><B><I>VOLVO XC90</I></B></SPAN></SPAN></DIV></div>
 
 ## Media
@@ -32,6 +32,9 @@ HTMLText_6BDD8039_64A6_31E4_41D7_D3C38C6C69F2.html = <div style="text-align:left
 ### Title
 map_0FB35DE9_2FFA_4313_41AD_2BC0AEC8FF24.label = floorplan pameran 76th INDONESIA TANGGUH 2
 map_36BDEADB_2FEE_4136_417A_83853E35AB92.label = floorplan Desktop pameran 76th INDONESIA TANGGUH 2
+panorama_07E96922_2EAE_4311_41B4_849206F7B7B9.label = 26b
+panorama_08844570_2EAA_43F1_41C7_87333A71A8B6.label = 26
+panorama_0AC1EB86_2F77_C71E_41AD_2249B5FC5262.label = 6
 panorama_0D175332_2FAF_C771_41AA_5579A53B17CE.label = 5
 panorama_216C0110_28C1_8DEB_41BC_4C8C6A0F24A7.label = 42
 panorama_216C04D7_28C1_9416_41C2_3CAFF74F6121.label = 44
@@ -55,7 +58,6 @@ panorama_216C77D9_28C0_941A_4180_7EAF60B3C136.label = 12
 panorama_216C7AED_28C0_7C3A_41C0_D53CEDD295C8.label = 14
 panorama_216C7B05_28C1_BDF5_41C1_67E6DAEB1170.label = 43
 panorama_216C7DE5_28C3_B435_41B4_749077F8881F.label = 24
-panorama_216C99CD_28C0_9C7A_41BB_256FAAA8B404.label = 6
 panorama_216CA898_28C0_9C1B_41C1_727B73918C9A.label = 9
 panorama_216CB2E2_28C0_8C2E_41B7_74C9692D99E4.label = 10
 panorama_216CD4BD_28C0_F41A_4181_0C2CA9509DE4.label = 7
@@ -77,7 +79,6 @@ panorama_220FEDAE_28C1_B436_41B3_0251B15BB406.label = 1
 panorama_3845FA20_2FEA_4111_4172_1F6533C2E884.label = 45
 panorama_399D9E94_2FEA_C131_4167_897C6AA77174.label = 46
 panorama_39F060AF_2FE9_C16F_41C1_CD8CA4B41F54.label = 3
-panorama_672E48F6_2F07_C8E8_41AA_DEBF198BF2D9.label = 26
 panorama_797BE51A_2D03_7959_41BC_4A25875AADD9.label = 47
 
 ## Popup
