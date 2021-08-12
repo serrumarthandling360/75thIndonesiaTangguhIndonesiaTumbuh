@@ -25,7 +25,7 @@ Button_750C11A1_648F_A89A_41C9_2E58278A81A6_mobile.label = INFORMATION
 
 ### Multiline Text
 HTMLText_524CEEAF_7E31_E3D9_41D5_A18634B5A288.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 0px 15px rgba(0,0,0,0.6);text-align:left;font-size:5.250000000000007vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:'Segoe UI';"><SPAN STYLE="color:#e7392b;font-size:5.25vmin;font-family:'Exo';"><B><I>MOMENTUM</I></B></SPAN></SPAN></DIV></div>
-HTMLText_6BDD8039_64A6_31E4_41D7_D3C38C6C69F2.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 0px 15px rgba(0,0,0,0.6);text-align:left;font-size:7.430000000000003vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:'Segoe UI';"><SPAN STYLE="color:#ffffff;font-size:7.43vmin;font-family:'Exo';"><B><I>VOLVO XC90</I></B></SPAN></SPAN></DIV></div>
+HTMLText_6BDD8039_64A6_31E4_41D7_D3C38C6C69F2.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 0px 15px rgba(0,0,0,0.6);text-align:left;font-size:7.430000000000002vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:'Segoe UI';"><SPAN STYLE="color:#ffffff;font-size:7.43vmin;font-family:'Exo';"><B><I>VOLVO XC90</I></B></SPAN></SPAN></DIV></div>
 
 ## Media
 
@@ -44,7 +44,6 @@ panorama_216C0110_28C1_8DEB_41BC_4C8C6A0F24A7.label = 42
 panorama_216C04D7_28C1_9416_41C2_3CAFF74F6121.label = 44
 panorama_216C136D_28C0_8C3A_41C0_412C2C2737F9.label = 31
 panorama_216C1A73_28C0_9C2D_419F_26255D82AD03.label = 35
-panorama_216C2B31_28C0_7C2D_41BD_D6C150C83E7C.label = 27
 panorama_216C2F43_28C0_B46E_4194_4CD9D1F9C0D9.label = 37
 panorama_216C2F48_28C3_F47A_41C2_3BD28A191FB9.label = 21
 panorama_216C3709_28C1_95FD_41B6_D032071178FA.label = 41
@@ -67,7 +66,6 @@ panorama_216CB2E2_28C0_8C2E_41B7_74C9692D99E4.label = 10
 panorama_216CD4BD_28C0_F41A_4181_0C2CA9509DE4.label = 7
 panorama_216CE966_28C0_BC36_4199_04831AC61386.label = 30
 panorama_216CEEA3_28C0_F42D_41A5_A89C66C68647.label = 8
-panorama_216CF50B_28C0_95FE_41B7_C8009D6E2F41.label = 28
 panorama_216CFEFA_28C0_941E_4197_87F4E4E1011A.label = 29
 panorama_216DC32E_28C0_8C37_4190_68E53F42DA1B.label = 39
 panorama_216DDD45_28C0_746A_41B0_4AD9009C5670.label = 40
@@ -77,6 +75,8 @@ panorama_216FC848_28C3_BC7A_41BC_E9B3D341123F.label = 17
 panorama_216FD4C0_28C3_946A_41AA_D43FE5FA1A0E.label = 15
 panorama_216FF2A3_28C3_8C2E_41A9_5CAE7B824EA0.label = 18
 panorama_216FF5B6_28C3_F416_4181_1162C355235C.label = 20
+panorama_2BF5F2A5_3B63_91D8_41C2_D2DBEF066F73.label = 28
+panorama_34DB239C_3B60_B7E9_41BD_3325C07BD56E.label = 27
 panorama_3845FA20_2FEA_4111_4172_1F6533C2E884.label = 45
 panorama_399D9E94_2FEA_C131_4167_897C6AA77174.label = 46
 panorama_797BE51A_2D03_7959_41BC_4A25875AADD9.label = 47
